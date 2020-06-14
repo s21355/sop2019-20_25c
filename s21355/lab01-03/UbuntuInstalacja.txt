@@ -1,0 +1,22 @@
+Instrukcja instalacji systemu operacyjnego Linux na podstawie dystrybucji Ubuntu 
+
+Przygotowanie: 
+# Do instalacji systemu pobralem obraz .ISO ze strony https://ubuntu.com/#download oraz nagra³em #obraz programem Rufus na pendrive
+
+1. Ustawienie bootwnaia w komputerze na dysk z obrazem .ISO Ubuntu
+2. Natêpnie pojawi³ siê ekran powitalny instalacji gdzie wybra³em jêzyk angielski oraz "Install Ubuntu"
+3. Kolejno wybieramy uk³ad klawiatury (jêsli nie wiemy jaki mamy uk³ad klawiatury na dole znajdujê siê proste narzêdzie do wykrywania uk³adu wystarczy wciskaæ po koleji wyœwietlane znaki lub odpowiadaæ czy dany znak znajdujê sie na twojej klawiaturze)
+4. Dalej wybieramy po³¹czenie sieciowe 
+5. W kolejnym oknie wybieram 
+*Normal installation(poniewa¿ przydadz¹ mi siê podstawowe programy
+*Download updates while installing Ubuntu(poniewa¿ nie chcê tracic czasu na to póŸniej)
+6. Kolejno wybra³em opcje Erase disk and install Ubuntu ( poniewa¿ chcê mieæ ca³y dysk na system)
+7. Mastêpnie wybieram strefe czasow¹ 
+8. Kolejno wype³niam 
+-Nazwê urz¹dzenia
+-Nazwê u¿ytkownika
+-Has³o
+-Require my password to log in
+9. Przy ptaniu o instalacje Grub Boot Loader wybieramy TAK, jest to program rozruchowy systemu
+10. Gdy instalator zakoñczy³ swoje prace poprosi³ o restart urz¹dzenia
+11. Po restarcie ju¿ mog³em korzystaæ z nowo postawionego systemu :D
